@@ -21,7 +21,7 @@ struct Config {
         "     *         *  \n\r"
         "       *     *    \n\r"
         "          *       \n\r",
-        "SLOPE:\n\r"
+        /*"SLOPE:\n\r"
         "        *        \n\r"
         "       *         \n\r"
         "      *          \n\r"
@@ -29,7 +29,15 @@ struct Config {
         "    *            \n\r"
         "   *             \n\r"
         "  *              \n\r"
-        " * * * * * * * * \n\r"};
+        " * * * * * * * * \n\r",*/
+        "Triangle:\n\r"
+        "       *         \n\r"
+        "      * *        \n\r"
+        "     *   *       \n\r"
+        "    *     *      \n\r"
+        "   *       *     \n\r"
+        "  *         *    \n\r"
+        " * * * * * * *   \n\r"};
 };
 
 Config config;
